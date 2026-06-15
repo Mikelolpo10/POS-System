@@ -1,13 +1,14 @@
-import { Outlet } from "react-router"; 
+import { Outlet } from "react-router";
 import Sidebar from "./Sidebar";
 
 export default function MainLayout() {
   return (
     <>
-    <Sidebar />
+      <Sidebar />
 
-    <Outlet />
-
+      <main className="min-h-screen bg-primary-bg">
+        <Outlet />
+      </main>
     </>
   )
 }

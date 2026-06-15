@@ -1,9 +1,21 @@
 import logo from '../assets/logo.png'
+import cashier from '../assets/cashier.png'
+import transactionHistory from '../assets/transaction-history.png'
+import inventory from '../assets/Inventory.png'
+import table from '../assets/table.png'
+import dashboard from '../assets/dashboard.svg'
 
 export default function Sidebar() {
   return (
-    <div className="p-3 fixed h-screen max-w-21 border bg-amber-200">
-      <img src={logo}/>
+    <div className="p-4 pt-6 fixed h-screen max-w-24 bg-white shadow-[1px_-1px_2.2px_rgba(0,0,0,0.13)] cursor-pointer box-border">
+      <img src={logo} className='pb-8' />
+      <nav className='flex flex-col gap-4'>
+        <img src={cashier} />
+        <img src={transactionHistory} />
+        <img src={inventory} className='p-3' />
+        <img src={table} className='p-3' />
+        <img src={dashboard} className='p-3' />
+      </nav>
     </div>
   )
 }
