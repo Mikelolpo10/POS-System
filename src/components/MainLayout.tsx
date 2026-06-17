@@ -4,11 +4,11 @@ import Sidebar from "./Sidebar";
 export default function MainLayout() {
   return (
     <>
-      <Sidebar />
+      <div className="flex min-h-screen bg-primary-bg">
+        <Sidebar />
 
-      <main className="min-h-screen bg-primary-bg">
         <Outlet />
-      </main>
+      </div>
     </>
   )
 }

@@ -7,7 +7,7 @@ import dashboard from '../assets/dashboard.svg'
 
 export default function Sidebar() {
   return (
-    <div className="p-4 pt-6 fixed h-screen max-w-24 bg-white shadow-[1px_-1px_2.2px_rgba(0,0,0,0.13)] cursor-pointer box-border">
+    <div className="p-4 pt-6 sticky h-screen max-w-24 bg-white shadow-[1px_-1px_2.2px_rgba(0,0,0,0.13)] cursor-pointer box-border">
       <img src={logo} className='pb-8' />
       <nav className='flex flex-col gap-4'>
         <img src={cashier} />
