@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Express Bowl Ayam Mentega",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fb36be59-ef57-4edf-820b-dfc55d3a37ee_menu-item-image_1640920062201.jpg?auto=format"
+  },
+  {
+    "name": "Spaghetti Bolognaise",
+    "price": 29000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d2354cc8-2cf4-4de0-9eaa-3081b185fa47_menu-item-image_1627305889737.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Ayam",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fcd8a961-0867-4e8d-8089-2c4fe1dbfc12_menu-item-image_1627306077749.jpg?auto=format"
+  },
+  {
+    "name": "Bakso Halus Mie/Bihun",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/54f148ff-c545-49fd-9af8-8efce3db3af3_menu-item-image_1627306393469.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Ayam",
+    "price": 39000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/810fe908-4450-414a-adb5-43d04ca694a9_menu-item-image_1627306747125.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng",
+    "price": 40000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e9f6c322-0abe-4306-8095-460507b19e45_menu-item-image_1627306932801.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Cap Cay",
+    "price": 51000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5bdef073-72d7-4cb6-99d6-67f6673a6c10_menu-item-image_1627307162390.jpg?auto=format"
+  },
+  {
+    "name": "Lo Mie",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e626c4e6-a8db-43fd-bc95-4fb3d5cad645_menu-item-image_1627307392515.jpg?auto=format"
+  },
+  {
+    "name": "Sweet Potato Fried",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1ed43476-be5f-4fa7-adc6-d28a6916a67a_menu-item-image_1733020636015.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Putih",
+    "price": 12000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fa54ff8f-c818-4255-a47f-4ff873c3157c_e0d22435-40b9-49c8-ae2c-ff035d1701b8.jpg?auto=format"
+  },
+  {
+    "name": "Cookies & Cream Ice Blend",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2a3f4cfc-ca59-477e-b6f4-32e80eb7f9a1_54f26475-c95a-47ce-b354-50f8c5ecf458_Cookies-Cream-Ice-Blend.jpeg?auto=format"
+  },
+  {
+    "name": "Taro Milk Shake",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/05f80b70-6bfb-461c-b3b1-a1c354b2d06f_fadd5ebd-88d6-4de1-907f-ca248140e254_Taro-Milkshake.jpeg?auto=format"
+  },
+  {
+    "name": "Ayam Goreng Mentega",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/827e27b8-f488-4ac1-a503-b3b39214f62d_menu-item-image_1627307504485.jpg?auto=format"
+  },
+  {
+    "name": "Family Pack 2.",
+    "price": 151000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/54fa9a20-bf97-4868-a716-a1efac5cc8aa_40fefe86-bcce-42d7-9ba2-c5029061c7a6_family-pack02.jpeg?auto=format"
+  },
+  {
+    "name": "Express Bowl Ayam Rica",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ff499312-a309-4b28-a5e2-a00a216dd10b_menu-item-image_1640920055311.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Crispy Black Pepper Sauce",
+    "price": 35000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/bc1c960d-cf0f-49e3-9e9d-3b75f2abd06c_menu-item-image_1627305894582.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Ayam Bakso",
+    "price": 39000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/52f29b86-717c-478d-919d-5d1b5d8cf7e3_menu-item-image_1627306082223.jpg?auto=format"
+  },
+  {
+    "name": "Bakso Ikan Kuah",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/bf4189c6-191e-4ac5-b7a7-918f5bbf3217_menu-item-image_1627306399017.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Ayam Bakso",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8f376d47-ac0d-4b96-9cfe-431c6bedb14d_menu-item-image_1627306751471.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Special",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0ff28be3-6aa0-4421-8a53-81a8c75d93b5_menu-item-image_1627306960082.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Ayam Cah Jamur",
+    "price": 51000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1b8409c7-21ca-4df6-ad60-bae57d3abac2_menu-item-image_1627307167734.jpg?auto=format"
+  },
+  {
+    "name": "I Fu Mie",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/01c47103-d916-4048-a6c0-cd5a7c5e8856_menu-item-image_1627307397321.jpg?auto=format"
+  },
+  {
+    "name": "Fish Ball",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a35bbf81-479d-40e5-9481-f4cd972552a0_menu-item-image_1627307409332.jpg?auto=format"
+  },
+  {
+    "name": "Soup Ayam",
+    "price": 34000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c99a7318-5c3e-4dd4-a8e7-44e815ca32b9_e1b7ccd5-5495-4c56-bd1e-27783ce2e4c4.jpg?auto=format"
+  },
+  {
+    "name": "Vanilla Latte Iced Blend",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/6900b20d-95e9-40ac-b2ac-d5483379667a_3b2836eb-9191-4d74-9ae2-a56156b75404_Vanilla-latte-ice-blended.jpeg?auto=format"
+  },
+  {
+    "name": "Teh Tarik",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/952e1512-592e-491b-a688-6a56725677ba_d5ae8ce6-cd6e-44cc-9f62-0bf399bc5a8e.jpg?auto=format"
+  },
+  {
+    "name": "Ayam Goreng Tepung",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7f1ef121-f5db-4590-8807-922b33ad2c59_menu-item-image_1627307510162.jpg?auto=format"
+  },
+  {
+    "name": "Family Pack 1.",
+    "price": 166002,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d9aa35a8-81bb-4055-bb90-50bece1593ca_2e717d15-4729-406e-8677-4138b89fbfe8_family-pack01.jpeg?auto=format"
+  },
+  {
+    "name": "Express Bowl Ayam Asam Manis",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7e254a4a-59e8-495a-ab03-8c7827f35532_menu-item-image_1777447742285.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Crispy Chicken Spicy Mayo",
+    "price": 34000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/22d4b17c-f304-49f2-b9a5-632edc94447c_menu-item-image_1627305930303.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Ayam Pangsit Rebus",
+    "price": 37000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5edd0a94-b73c-49f2-bb1d-8e9a3dc74ab9_menu-item-image_1627306280193.jpg?auto=format"
+  },
+  {
+    "name": "Pangsit Rebus",
+    "price": 27000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5048e354-0511-46dc-8b79-ceaebd9b5481_menu-item-image_1627306403760.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Ayam Pangsit Rebus",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b32c8598-42d7-4afa-bae7-3684b3f5f964_menu-item-image_1627306785067.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Tom Yum Ayam",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1042169c-150d-4a49-bb38-759d23642730_menu-item-image_1627306964216.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Ayam Cah Kapri",
+    "price": 51000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8d6b8f9d-62ef-4326-a554-1fe24e4ee821_menu-item-image_1627307182429.jpg?auto=format"
+  },
+  {
+    "name": "Prawn Ball",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a87c6f04-ae72-43fd-82ca-fdc50ed5a5c6_menu-item-image_1627307414229.jpg?auto=format"
+  },
+  {
+    "name": "Cap Cay Kuah",
+    "price": 46000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/36c0d799-a523-4c1f-a178-498f01116193_5fc81ff9-17f5-4301-88ed-26b76e7779c5_Cap-cay-kuah.jpeg?auto=format"
+  },
+  {
+    "name": "Thai Tea",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/65214ef7-b3c6-4051-b7a5-43cea3307f51_a920b0b2-82db-4dc2-90c1-0ec0ae02081d_master-menu-item-image_1576643135233.jpg?auto=format"
+  },
+  {
+    "name": "Ayam Goreng Rica-rica",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e045db42-483e-4937-9ef8-0f60af3f9d5d_menu-item-image_1627307514713.jpg?auto=format"
+  },
+  {
+    "name": "Family Pack 3.",
+    "price": 140100,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e4e19ffb-ba35-4f84-a345-ba100ff98cc3_206c9c38-8162-49af-b612-0cef7658dd3d_family-pack03.jpeg?auto=format"
+  },
+  {
+    "name": "Express Bowl Ayam Mayo",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ceda362d-da41-499e-a4c8-9bcd677c75c6_menu-item-image_1640920034096.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam Teriyaki",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/cc33bd78-618e-4d49-a2e1-cab8a9fbbf6a_menu-item-image_1627305934201.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Ayam Pangsit Rebus Bakso",
+    "price": 45000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5af72de6-bc17-4416-a255-bbdd0f321364_menu-item-image_1627306286307.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam",
+    "price": 32000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/14a68251-be39-4fd1-a9bf-6c8cc9b1ad71_menu-item-image_1627306412984.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Ayam Pangsit Rebus Bakso",
+    "price": 54000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f048142f-7b3f-486d-a445-1c1537ef9c7f_menu-item-image_1627306791146.jpg?auto=format"
+  },
+  {
+    "name": "Smoked Chicken Fried Rice",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1d6d3e05-69fc-4d4a-85ec-6e47ad4165d7_menu-item-image_1627306968014.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Ayam Cah Kembang Kol",
+    "price": 51000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/98dd2a63-c068-46ac-88ce-4920b557b2d3_menu-item-image_1627307187733.jpg?auto=format"
+  },
+  {
+    "name": "Spring Roll",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/20f522ba-6c2f-4eb3-930e-127c5acad15e_menu-item-image_1627307418487.jpg?auto=format"
+  },
+  {
+    "name": "Telur Dadar",
+    "price": 11000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a7f42531-102c-43b2-a2aa-0e98bcf52020_2c529cde-6464-483c-99ff-4d5a50d91102_Telur-dadar.jpeg?auto=format"
+  },
+  {
+    "name": "Es Kopi Malaka",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3c7cc9b1-d5db-414e-bcb9-1677b4bd8de7_b84a4649-bee9-47b7-821d-d7dc615aa520_Kopi-malaka.jpeg?auto=format"
+  },
+  {
+    "name": "Ayam Asam Manis",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e44e0dad-21ca-4421-9b3d-df068b165db7_menu-item-image_1627307539505.jpg?auto=format"
+  },
+  {
+    "name": "Family Pack 4.",
+    "price": 154002,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/46850ad4-3ff1-4119-91ab-08fcf3111cf3_d390160d-0540-42d3-8773-274bcddb6ab1_family-pack04.jpeg?auto=format"
+  },
+  {
+    "name": "Express Bowl Ayam Teriyaki",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/26c1dada-a679-4a18-a3fe-37685862da3e_menu-item-image_1640920022313.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Teriyaki",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/eb9b3dd1-5335-4ed7-8de1-edc8720d698f_menu-item-image_1627305975840.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Goreng Ayam",
+    "price": 46000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2ac7a6d9-7e86-4727-9a82-bd21c10a4f67_menu-item-image_1627306325310.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam Solaria Special ( Pedas )",
+    "price": 32000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/87d815ed-5059-4f05-a426-ff4c50f5ffba_menu-item-image_1627306424621.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Goreng Ayam",
+    "price": 53000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3df32ded-18c5-4fdf-8397-56dcbc7f8911_menu-item-image_1627306797654.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Italy",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c714f0ae-65b7-4f89-be8c-1130f3927b88_menu-item-image_1627306979254.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Bistik Ayam",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e3c5ffc1-a202-47dc-8fb6-42ed87fc1767_menu-item-image_1627307198298.jpg?auto=format"
+  },
+  {
+    "name": "Fish Cake",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/90c759a9-6309-4272-a2ba-167873156800_menu-item-image_1627307421856.jpg?auto=format"
+  },
+  {
+    "name": "Telur Mata Sapi",
+    "price": 10000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/301a93a8-9844-4c74-915d-7a9e91675b5c_46c1f48d-d5e4-477a-b4ff-2a1a94a99eed_Telur-mata-sapi.jpeg?auto=format"
+  },
+  {
+    "name": "Black Currant",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ff1a73f9-56f6-4edc-ba07-d1b139505aaa_2491a31f-3dee-48b2-85fb-7ccad4a39dbf.jpg?auto=format"
+  },
+  {
+    "name": "Fillet Ikan Goreng Mentega",
+    "price": 69000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2cd01f43-b229-4dbe-bee7-5811bcedcbc2_menu-item-image_1627307565560.jpg?auto=format"
+  },
+  {
+    "name": "Family Pack 5.",
+    "price": 154700,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4c10b2fc-9293-4cef-838d-d2148fc733d4_0ca76e44-09fd-4ab8-948f-ebeac615d4c0_family-pack05.jpeg?auto=format"
+  },
+  {
+    "name": "Express Bowl Fillet Ikan Mentega",
+    "price": 37000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/63efd280-a3b3-4431-ad29-3b8d85bb7a7e_menu-item-image_1640920009301.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Katsu Teriyaki Saos",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/053b6cdd-842a-49e3-9e2a-e71d89e7c1bd_menu-item-image_1627305981735.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Siram Ayam",
+    "price": 46000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fdd959a1-02e5-4205-9048-8d6668e6ef68_menu-item-image_1627306329679.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam Bakso",
+    "price": 41000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4fc6334f-ba96-47a3-9c5b-0d11959fa566_menu-item-image_1627306466837.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Ayam Siram",
+    "price": 53000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/baada66c-d1e3-4c19-859e-0625859abd26_menu-item-image_1627306803139.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Bebek Cabe Ijo",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/07e802c2-1baa-4daf-af00-1751f8aa83d5_menu-item-image_1627307011094.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Goreng Mentega",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2811dcf2-03f2-4a34-af8b-6f5d30cd77cb_menu-item-image_1627307203329.jpg?auto=format"
+  },
+  {
+    "name": "Cuttlefish Ball",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2628503e-3367-4913-9d1b-f41c81f21c0c_menu-item-image_1627307477055.jpg?auto=format"
+  },
+  {
+    "name": "Frozen Capucino",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/98bf8802-8d22-4288-aa33-6f367e07839e_f8a0d87a-72db-48e2-8137-c5a9dd8443b0.jpg?auto=format"
+  },
+  {
+    "name": "Fillet Ikan Goreng Tepung",
+    "price": 69000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0660052f-72a6-4b10-8b8e-e3bb8ae3b241_menu-item-image_1627307576457.jpg?auto=format"
+  },
+  {
+    "name": "Express Bowl Fillet Ikan Rica",
+    "price": 37000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b04c063b-96f1-4205-95ef-ad7bd17ac4e1_menu-item-image_1640920000939.jpg?auto=format"
+  },
+  {
+    "name": "Mie + Ayam Katsu Teriyaki Saos",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9aecd5b9-77ee-4c29-b227-f5090e8c76c2_menu-item-image_1627305986826.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Kuah Ayam",
+    "price": 46000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/61ab8f09-5b6a-434b-b777-f2f0e6a00a67_menu-item-image_1627306335150.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam Pangsit Rebus",
+    "price": 39000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/57306940-18bc-454f-a7e8-539d148ebaa6_menu-item-image_1627306471330.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Masak Ayam",
+    "price": 53000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/39d3e3ee-61ec-416e-839a-d35095ec2e58_menu-item-image_1627306807545.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Sapi Cabe Ijo",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7674fcf9-cd53-4102-947d-6f200827c56b_menu-item-image_1627307148888.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Goreng Tepung",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c5c8ac1f-50f7-45bb-9a1f-ae116a27a9d5_menu-item-image_1627307207435.jpg?auto=format"
+  },
+  {
+    "name": "Crispy Mini Wonton",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5e2f2b67-c9f6-46b7-910f-51407c080d76_menu-item-image_1627307483032.jpg?auto=format"
+  },
+  {
+    "name": "Orange Juice",
+    "price": 27000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/91d7b332-6d05-45aa-960c-a2450aec6677_9bba5d18-3d05-448c-8a49-1fddaa32a975.jpg?auto=format"
+  },
+  {
+    "name": "Fillet Ikan Goreng Rica-rica",
+    "price": 69000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/eac2322f-cb4c-4c31-9a37-0d800ba8de4e_menu-item-image_1627307581599.jpg?auto=format"
+  },
+  {
+    "name": "Express Bowl Fillet Ikan Teriyaki",
+    "price": 37000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/90d065b4-9aca-4910-bb87-c3c1b8f035c3_menu-item-image_1640919988705.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Lada Hitam",
+    "price": 46000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f686bb80-d117-4f64-b040-a905e3cebd31_menu-item-image_1627305991516.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Goreng Sapi",
+    "price": 54000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9dc1249a-6493-4b8b-abea-7339ca020123_menu-item-image_1627306339645.jpg?auto=format"
+  },
+  {
+    "name": "Mie Ayam Pangsit Rebus Bakso",
+    "price": 47000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ae6d7fdc-b9e0-414f-95d7-f7db96e48cbb_menu-item-image_1627306475020.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Sapi Goreng",
+    "price": 57000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/cc610656-4eae-4d18-a404-8f1787a707a9_menu-item-image_1627306813493.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Teri Cabe Ijo",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5460356c-80e9-4338-88e5-593b73814ae7_menu-item-image_1627307153237.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Goreng Rica-rica",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/25832a72-5eb8-4ef3-8e2f-82d00470e81e_menu-item-image_1627307213726.jpg?auto=format"
+  },
+  {
+    "name": "French Fries",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d580b2fa-2d75-40f2-bb03-4ecf9f242bb9_menu-item-image_1627307488780.jpg?auto=format"
+  },
+  {
+    "name": "Juice Alpukat",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/35a1651f-2031-4234-a88c-2b49548f62cb_3cedab7e-cbec-4f00-9f40-7f281c1b4c41.jpg?auto=format"
+  },
+  {
+    "name": "Fillet Ikan Asam Manis",
+    "price": 69000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/38ea7ef9-f0b5-4ee9-b751-eaacfd32e8ca_menu-item-image_1627307612931.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Chicken Bulgogi",
+    "price": 43000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/68823276-bc6c-49d8-b818-ef8c955c8686_menu-item-image_1627305996498.jpg?auto=format"
+  },
+  {
+    "name": "Bihun Siram Sapi",
+    "price": 54000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f9dc4fc7-fac9-4e53-b028-36d9878b2e9c_menu-item-image_1627306346859.jpg?auto=format"
+  },
+  {
+    "name": "Mie Goreng Ayam",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/1b678713-74df-403d-b074-69fdabba12c7_menu-item-image_1627306480853.jpg?auto=format"
+  },
+  {
+    "name": "Kwetiau Sapi Siram",
+    "price": 57000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0ef4c895-6f7d-49c1-ba77-a7d05c0a221a_047f2693-f796-4b28-b787-651836f1649c.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Modern",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e5d16f7a-1dc4-472f-b547-0b4232a414b3_menu-item-image_1627307088067.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Nanking",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f4c8d3a4-5ed4-48de-8e07-ca132786ead9_menu-item-image_1627307220657.jpg?auto=format"
+  },
+  {
+    "name": "Siomay",
+    "price": 17000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0848b6d5-6b32-47ce-ab06-41a2ef2ae6bc_menu-item-image_1627307493098.jpg?auto=format"
+  },
+  {
+    "name": "Juice Melon",
+    "price": 26000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/efd64447-2c4e-46e1-8560-3185068edda8_6db1c94e-84da-410a-bea2-6dc66f3ad1da.jpg?auto=format"
+  },
+  {
+    "name": "Bistik Ayam",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d94c1e8d-1758-40ef-b9ed-088252792cdc_menu-item-image_1627307625872.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Sapo Tahu Ayam",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e007379b-9869-4d39-88f0-2644630a78a9_menu-item-image_1627306001596.jpg?auto=format"
+  },
+  {
+    "name": "Mie Siram Ayam",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8425095f-f8c6-4245-813c-055b6d6057aa_menu-item-image_1627306509448.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Petai",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/96b90f1e-b358-4f9b-8b19-c1f1bdd3aeec_menu-item-image_1627307095866.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Ayam Asam Manis",
+    "price": 52000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b44638ee-5b01-4df6-8523-3115e8258272_menu-item-image_1627307252518.jpg?auto=format"
+  },
+  {
+    "name": "Wedges With Bolognaise Sauce",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/950060ac-931f-4a28-a2d7-14445929cf57_4f15199a-76e2-4ad9-a6f7-8b688f7b1bac_Wedges-with-bolognaise-sauce.jpeg?auto=format"
+  },
+  {
+    "name": "Juice Mangga (Musiman)",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b5e9d944-45fa-4711-b858-676500f233f1_5914cc02-f2a2-4899-8803-b39c67ff5b65.jpg?auto=format"
+  },
+  {
+    "name": "Bistik Sapi Mentega",
+    "price": 64000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7979dccd-29aa-4098-ad8f-8403d2401913_menu-item-image_1627307631135.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Sapo Tahu Sapi",
+    "price": 53000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0c46ac1e-75b3-436d-9dac-c0d19ab0259d_menu-item-image_1627306007383.jpg?auto=format"
+  },
+  {
+    "name": "Mie Kuah Ayam",
+    "price": 48000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8105a500-c062-4f0f-80ec-781dcf61d8ac_menu-item-image_1627306545159.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Sosis",
+    "price": 50000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d269c477-a29b-4780-927c-a83c933eb9ef_menu-item-image_1627307103115.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Bistik Sapi Mentega",
+    "price": 57000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4b953edc-f957-438d-b4f9-a1a27b75c8dd_menu-item-image_1627307272578.jpg?auto=format"
+  },
+  {
+    "name": "Juice Tomat",
+    "price": 26000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d132b6bf-c46b-4e31-af1b-5e593e75a350_eab7831e-083a-4c5c-be06-20cc617674c0.jpg?auto=format"
+  },
+  {
+    "name": "Bistik Sapi Tepung",
+    "price": 64000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/053b7003-02f8-481b-b5f0-5dfb492b8cce_menu-item-image_1627307635594.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Cordon Bleu + Nasi & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3a92f417-9871-4c1e-8b28-98c3412d17c9_menu-item-image_1627306035064.jpg?auto=format"
+  },
+  {
+    "name": "Mie Goreng Sapi",
+    "price": 55000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/093a1f2f-def0-499d-905a-943d7f4c6258_menu-item-image_1627306552517.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Kepiting",
+    "price": 61000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/be52388a-9596-47a4-ab12-9b086e9c5ba1_menu-item-image_1627307125909.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Bistik Sapi Tepung",
+    "price": 57000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ab67a2be-868b-458a-9989-54ce2cbcc188_menu-item-image_1627307294667.jpg?auto=format"
+  },
+  {
+    "name": "Es Jeruk",
+    "price": 27000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4c03e126-7bb9-464f-95c8-391272f8e7f0_b8cb0320-d312-429a-ab47-0ce25afc2539.jpg?auto=format"
+  },
+  {
+    "name": "Ayam Cah Jamur",
+    "price": 58000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f9afebd3-d268-4189-a62b-6ba3dd9ea974_menu-item-image_1627307640503.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Cordon Bleu + French Fries & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a27e82c5-1450-4ef6-9573-ac589eaed977_menu-item-image_1627306039375.jpg?auto=format"
+  },
+  {
+    "name": "Mie Siram Sapi",
+    "price": 55000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/ac0b22d2-12e0-4e5f-83a4-01db5120eca6_menu-item-image_1627306557127.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Goreng Teri Medan",
+    "price": 58000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/7cf647c2-5550-4516-8e43-d5f990b73c4b_menu-item-image_1627307131412.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Fillet  Ikan Goreng Mentega",
+    "price": 61000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/857399fa-ba1a-45cc-b8ea-f061ce178379_menu-item-image_1627307329124.jpg?auto=format"
+  },
+  {
+    "name": "Milk Shake Strawberry",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/06f50d7e-fc29-4a90-bce2-1d24cfd5bba7_f8da7273-a9dc-4fb2-82a6-4f3f1d14c2b4_Milkshake-strawberry.jpeg?auto=format"
+  },
+  {
+    "name": "Ayam Cah Kapri",
+    "price": 58000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/97ea38c3-ee94-4ae5-a2c4-30ab2285abb3_menu-item-image_1627307645085.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Mozarella + Nasi & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8bf7a02f-ef21-4f81-a6ec-a8f72b2dcf56_menu-item-image_1627306044950.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Fillet  Ikan Goreng Tepung",
+    "price": 61000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f7fb2a3d-6be4-4234-b198-4d5b9440bcc1_menu-item-image_1627307334083.jpg?auto=format"
+  },
+  {
+    "name": "Milk Shake Chocolate",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/18b3151b-6688-49fc-b2b7-b70cb49e5e72_03861b13-3d2d-49f2-a8ec-5b74ca00bf8a_Milkshake-cokelat.jpeg?auto=format"
+  },
+  {
+    "name": "Ayam Cah Kembang Kol",
+    "price": 58000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/cddd5586-1f2b-4b0c-b08e-6de6677721c5_menu-item-image_1627307650020.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Mozarella  + French Fries & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c8e57316-afc0-49af-ad0d-cc78829267c8_menu-item-image_1627306050692.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Fillet Ikan Goreng Rica-rica",
+    "price": 61000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b6151793-b828-4fc5-91b7-c359c0ac526e_menu-item-image_1627307342190.jpg?auto=format"
+  },
+  {
+    "name": "Milk Shake Vanilla",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0e6ab6f8-bb05-4a29-9bb4-da0081041244_33ba74e1-bf9d-48dd-9913-e63b0b608ffa_Milkshake-vanilla.jpeg?auto=format"
+  },
+  {
+    "name": "Cap Cay Goreng",
+    "price": 57000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fe288281-476f-428c-8963-5d9dfe7aa8da_menu-item-image_1627307663106.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Steak Chessy + Nasi & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e0fa9f1f-4270-4123-adf4-8a50999cae19_menu-item-image_1627306054946.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Fillet Ikan Asam Manis",
+    "price": 61000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0b3ee5ba-edee-44fb-8caf-af1e13d82517_menu-item-image_1627307348210.jpg?auto=format"
+  },
+  {
+    "name": "Milk Shake Blackcurrant",
+    "price": 25000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/904a5ad1-da77-4f5e-8e27-3b461756f527_123238ea-d08e-43c0-88ff-c3d9cea8b388_Milkshake-blackcurrent.jpeg?auto=format"
+  },
+  {
+    "name": "Ayam Nanking",
+    "price": 63000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/3e9f90a3-4758-41cb-b65e-cf457ef67b7c_menu-item-image_1627307658628.jpg?auto=format"
+  },
+  {
+    "name": "Chicken Steak Chessy + French Fries & Salad",
+    "price": 59000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/5fa3a89a-1d81-497a-b6ff-39e855821962_menu-item-image_1627306058708.jpg?auto=format"
+  },
+  {
+    "name": "Nasi Fu Yung Hai",
+    "price": 51000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/6eed1d51-0bb3-418b-a441-1952be22fafc_menu-item-image_1627307266142.jpg?auto=format"
+  },
+  {
+    "name": "Milo",
+    "price": 24000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2426ab48-1e0f-4b29-949f-6fe6c101155c_cf341616-8180-4b60-ad8f-5cb9c89553d7.jpg?auto=format"
+  },
+  {
+    "name": "Cumi Goreng Mentega",
+    "price": 68000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e5c2423d-b311-4759-a115-bd14c52678f7_menu-item-image_1627307548752.jpg?auto=format"
+  },
+  {
+    "name": "Fish & Chips + Nasi & Salad",
+    "price": 65000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9f8a9ecb-fa62-4e0d-bc4e-d160a0132af7_menu-item-image_1627306062922.jpg?auto=format"
+  },
+  {
+    "name": "Nasi  Cap Cay Seafood",
+    "price": 55000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/803e033c-4e68-4c12-aa5d-b391150ed3a2_menu-item-image_1627307302968.jpg?auto=format"
+  },
+  {
+    "name": "Es Lemon Tea",
+    "price": 20000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d027636d-69bc-4b41-ba61-abd7269db1d4_0b544bbc-5ceb-47ed-b9a6-4e6e4122c83d.jpg?auto=format"
+  },
+  {
+    "name": "Cumi Goreng Tepung",
+    "price": 68000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/a42d89ab-3fdf-4ea6-bc30-4a8b316ecc0a_menu-item-image_1627307555649.jpg?auto=format"
+  },
+  {
+    "name": "Fish & Chips + French Fries & Salad",
+    "price": 65000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2e94e28e-6ebe-4abb-b0ef-7f2118bbfd74_menu-item-image_1627306067087.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Udang Goreng Tepung",
+    "price": 56000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/525353a7-c30a-4d40-b6c7-659df5cd13df_menu-item-image_1627307312753.jpg?auto=format"
+  },
+  {
+    "name": "Es Lemonade",
+    "price": 20000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/08d71ebd-ecba-4620-a709-280df89073cb_ace3a609-bdf8-4ed1-9c43-6a6919eaf7a4.jpg?auto=format"
+  },
+  {
+    "name": "Cumi Goreng Rica-rica",
+    "price": 68000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/b42df9f8-93d5-4e7e-b3d2-be0768637d3b_menu-item-image_1627307619481.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Sapo Tahu Seafood",
+    "price": 55000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/8f4ba8af-83fe-4916-933d-a0791f477b2f_menu-item-image_1627306011217.jpg?auto=format"
+  },
+  {
+    "name": "Nasi + Cumi Goreng Mentega",
+    "price": 60000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/4b0e15d2-c27a-46f7-b895-ffa27a8afcef_menu-item-image_1627307192504.jpg?auto=format"
+  },
+  {
+    "name": "Melon Lemonade",
+    "price": 20000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/065bd0bf-e67b-4de5-8830-1e04be5314f0_a8a8b28a-6066-4cd2-8155-6eb9f684f693_Kopi-vietnam.jpeg?auto=format"
+  },
+  {
+    "name": "Udang Goreng Tepung",
+    "price": 67000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/259479a7-3454-4c84-bc17-bfe5c3efb6b9_menu-item-image_1627307533420.jpg?auto=format"
+  }
+]
