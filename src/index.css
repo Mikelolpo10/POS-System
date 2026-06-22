@@ -2,6 +2,16 @@
 
 @theme {
   --color-primary-bg: #F0F0F0;
-  --shadow-primary: 0px 2px 5px 1px rgba(0,0,0,0.2);
+  --color-dark-purple: #9000A8;
+  --shadow-primary: 0px 2px 5px 1px rgba(0, 0, 0, 0.2);
 }
 
+@layer base {
+  h1 {
+    @apply text-gray-800 text-[28px] font-bold text-shadow-md
+  }
+}
+
+body {
+  font-family: 'inter', sans-serif;
+}
