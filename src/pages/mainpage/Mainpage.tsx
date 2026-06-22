@@ -16,7 +16,7 @@ export default function Mainpage() {
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           placeholder="Search" size={20} maxLength={30}
-          className="mr-6 ml-auto py-1 px-4 rounded-lg text-lg font-semibold shadow-primary placeholder:text-gray-500 placeholder:font-semibold placeholder:text-base" />
+          className="mr-6 ml-auto py-1 px-4 rounded-lg shadow-primary placeholder:text-gray-500 placeholder:text-base" />
       </div>
 
       <OrderDetails menu={menu} />
