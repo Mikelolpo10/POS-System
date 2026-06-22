@@ -10,6 +10,9 @@
   h1 {
     @apply text-gray-800 text-lg font-bold text-shadow-md
   }
+  h2 {
+    @apply text-gray-800 text-base font-bold text-shadow-md
+  }
 }
 
 body {
