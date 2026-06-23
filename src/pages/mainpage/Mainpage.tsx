@@ -7,7 +7,7 @@ export default function Mainpage() {
   // const maxTable: number = 56
 
   return (
-    <div className="w-full flex">
+    <div className="ml-16 w-full flex">
       <div className="pl-8 max-h-16 w-full flex items-center bg-white">
         <h1>Order Menu</h1>
         <input
