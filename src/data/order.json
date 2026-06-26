@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Express Bowl Ayam Mentega",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fb36be59-ef57-4edf-820b-dfc55d3a37ee_menu-item-image_1640920062201.jpg?auto=format",
+    "quantity": 2
+  },
+  {
+    "name": "Spaghetti Bolognaise",
+    "price": 29000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d2354cc8-2cf4-4de0-9eaa-3081b185fa47_menu-item-image_1627305889737.jpg?auto=format",
+    "quantity": 4
+  },
+  {
+    "name": "Bihun Ayam",
+    "price": 30000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fcd8a961-0867-4e8d-8089-2c4fe1dbfc12_menu-item-image_1627306077749.jpg?auto=format",
+    "quantity": 1
+  },
+  {
+    "name": "Bakso Halus Mie/Bihun",
+    "price": 28000,
+    "image": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/54f148ff-c545-49fd-9af8-8efce3db3af3_menu-item-image_1627306393469.jpg?auto=format",
+    "quantity": 1
+  }
+]

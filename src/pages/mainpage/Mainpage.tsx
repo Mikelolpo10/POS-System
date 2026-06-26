@@ -1,6 +1,6 @@
 import { useState } from "react"
 import OrderDetails from "./OrderDetails"
-import menu from '../../data/solaria_menu.json'
+import menu from '../../data/menu.json'
 
 export default function Mainpage() {
   const [searchQuery, setSearchQuery] = useState<string>('')
